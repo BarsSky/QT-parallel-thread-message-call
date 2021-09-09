@@ -1,4 +1,4 @@
-# QT-parallel-thread-message-call
+# QT parallel thread message call
 It's simple project to help anyone call create ui in Qt from parralel thread. 
 Use of class inheriring QEvent library is the cornerstone of the project.
 ```C++
